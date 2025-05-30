@@ -1,2 +1,2 @@
 # CTF-Writeups
-Writeups for each CTF challenge that I practice and solve.
+Practical writeups for CTF challenges I've solved, including steps, commands, and exploitation techniques.
